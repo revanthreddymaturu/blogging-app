@@ -1,0 +1,14 @@
+//Status Codes
+200 -OK
+301- Resource Moved
+404- Not Found
+500- Internal Server Error
+
+100 Range- Informational Responses
+200 Range- Success Codes
+300 Range- Codes for redirects
+400 Range- User or Client Error Codes
+500 Range- Server Error Codes
+
+Middleware--Code which runs(on the server) between getting a request and sending a response
+
